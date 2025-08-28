@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { Download, Mail, User } from 'lucide-react';
 import { Link } from 'react-scroll';
@@ -27,7 +26,7 @@ const Hero = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-5xl md:text-7xl font-bold text-gray-800 mb-4"
           >
-            Aman Prakash Singh
+            Aman Prakash
           </motion.h1>
 
           <motion.h2
